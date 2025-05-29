@@ -1,7 +1,7 @@
 ## Hi, I'm Tomás ✨
 
 🧠 Computer science student at FAMAF-UNC<br/>
-📚 I create repos of my projects at FAMAF-UNC<br/>
+📚 I create repos of my projects from FAMAF-UNC<br/>
 
 
 # 💻 Tech Stack:
